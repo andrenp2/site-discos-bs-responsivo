@@ -24,6 +24,10 @@ section {
     color: #fff;
 }
 
+#inicio {
+    padding-top: 50px;
+}
+
 #cabecalho {
     background-color: rgb(20, 20, 20);
 }
@@ -39,7 +43,7 @@ section h2 {
 }
 
 .carousel-inner {
-    height: 35em;
+    height: 26em;
 }
 
 #img-1 {
